@@ -12,3 +12,5 @@ CRUD Application
 - Usage:
     + add "-Dspring.profiles.active=local, -Dspring.profiles.active=prod" to VM options ( Config context for run appli
     + OR Build *.jar file && $> java -jar target/SpringBootCRUDApplicationExample-1.0.0.jar –spring.profiles.active=local
+    
+--------luffy, July 20, 2017------------
